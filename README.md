@@ -5,4 +5,15 @@ In order to make adding or removal of departments in the future easy, we have us
 
 Simple test are implemented in ParcelDelivery.Test project
 
+## run the application
+first clone the application. Then Build the application using command:
+    
+    dotnet build
+    
+to run the application using command:
+
+    cd ParcelDelivery
+    dotnet run
+
+
  
